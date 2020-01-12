@@ -1,2 +1,2 @@
 # Learning Leetcode
-## Record for Leetcode Solution
+## Record for Leetcode Solution with Python and Java
